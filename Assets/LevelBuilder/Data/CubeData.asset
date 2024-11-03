@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2b378c6345a4761858aa33f9c0f28aa, type: 3}
+  m_Name: CubeData
+  m_EditorClassIdentifier: 
+  NotFound: {fileID: 0}
+  Ground: {fileID: 21300000, guid: 318fab98dd4411744a4baad2e233491a, type: 3}
+  GroundAndGrass: {fileID: 21300000, guid: d3d615e5c42c87246b426e6a3ac5b692, type: 3}
+  IceCave: {fileID: 21300000, guid: a594253672bad1d47b6abac90bc36c95, type: 3}
+  IceCaveBlocks: {fileID: 21300000, guid: 37676652978b69440a4d22fc9b795c81, type: 3}
+  Lava: {fileID: 21300000, guid: 3af0bf9da0dc45649b9bb7a0745d4661, type: 3}
+  MossBlock: {fileID: 21300000, guid: e3fef07e6625ee04cb77edab631671ff, type: 3}
+  OceanRock: {fileID: 21300000, guid: b9b30dc8c78dfc9409891ce28926344c, type: 3}
+  ShardRock: {fileID: 21300000, guid: bf4626f7f5e1ff346988af124af83dea, type: 3}
+  Stone: {fileID: 21300000, guid: df2e83bdceb904a4ea9bca45d7f1ba6f, type: 3}
+  StoneWall: {fileID: 21300000, guid: 0a2bac6543c09dc47a1f5cca284eeb5f, type: 3}
