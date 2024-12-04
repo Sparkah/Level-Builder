@@ -20,11 +20,11 @@ Use the Tool:
 Once imported, the tool will be accessible from the Unity Editor. Follow the provided usage guide or explore the editor options.
 
 By selectine the whole Game Level prefab, you can generate large levels based on the settings selected
-![Generate Large Levels](Assets/LevelBuilder/images/Screenshot_2024-12-04_at_15.50.17.png)
+![Generate Large Levels](Assets/LevelBuilder/Images/Screenshot_2024-12-04_at_15.50.17.png)
 
 
 Be selecting single bloks, you can change its individual settings as well as selecting the sphere button to add new cubes next to it
-![Single block Image](Assets/LevelBuilder/images/Screenshot_2024-12-04_at_15.50.02.png)
+![Single block Image](Assets/LevelBuilder/Images/Screenshot_2024-12-04_at_15.50.02.png)
 
 
 Contributing
