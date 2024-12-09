@@ -23,12 +23,12 @@ Import the .unitypackage via Assets > Import Package > Custom Package.
 Once imported, the tool will be accessible from the Unity Editor. Follow the usage instructions below:
 
 🛠️ How to Use
+
 Generate Large Levels
 By selecting the whole Game Level prefab, you can generate large levels based on the selected settings:
 ![Generate Large Levels](Assets/LevelBuilder/Images/Screenshot_2024-12-04_at_15.50.17.png)
 
 Customize Single Blocks
-By selecting single blocks, you can:
 
 Change individual block settings.
 Use the Sphere button to add new cubes next to the selected block.
@@ -36,4 +36,5 @@ Use the Sphere button to add new cubes next to the selected block.
 
 
 🤝 Contributing
+
 Feel free to fork this repository, make changes, and submit pull requests. Contributions are welcome!
